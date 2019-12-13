@@ -35,4 +35,10 @@ class nxlog::params {
   $order_processor             = '30'
   $order_output                = '40'
   $order_route                 = '90'
+
+  $extensions                  = {}
+  $inputs                      = {}
+  $outputs                     = {}
+  $processors                  = {}
+  $routes                      = {}
 }
