@@ -1,7 +1,3 @@
-[![Build Status][travis-img-master]][travis-ci]
-[![Puppet Forge][pf-img]][pf-link]
-[![GitHub tag][gh-tag-img]][gh-link]
-
 # nxlog
 
 #### Table of Contents
