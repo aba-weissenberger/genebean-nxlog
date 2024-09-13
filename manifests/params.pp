@@ -6,9 +6,9 @@ class nxlog::params {
   $ext_module                  = undef
   $ext_options                 = undef
   $input_execs                 = []
-  $input_file_path             = undef
   $input_module                = undef
   $input_options               = undef
+  $input_file_path             = undef
   $input_type                  = undef
   $nxlog_root                  = undef
   $output_address              = undef
